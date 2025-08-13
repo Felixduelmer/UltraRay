@@ -1,0 +1,26 @@
+
+# scene
+scene = cylinder
+
+# probe
+td_elements_lat = 128
+td_radius_ax = 0.03
+td_opening_angle = 70
+td_ele_extent = 0.004
+
+# plane wave imaging
+pw_nb_angles = 25
+pw_start_angle = -30
+pw_end_angle = 30
+
+# ray tracing
+sampling_frequency = 50000000
+central_frequency =  5000000
+num_cycles = 3
+max_distance = 0.20
+fnumber = 28
+sample_count = 100000
+max_depth = 10
+
+# tissue properties
+attenuation_coefficient = 0.1

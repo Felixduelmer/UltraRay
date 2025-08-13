@@ -1,0 +1,15 @@
+build/
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/
+ultra_ray/transducer_meshes/
+external/
+results/scenes/paper/vertebrae/vertebrae.obj
+.vscode/
+scenes/paper/
+ultra_ray.egg-info/
+results/
+ultraray_env/

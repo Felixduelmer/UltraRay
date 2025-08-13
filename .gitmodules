@@ -1,0 +1,3 @@
+[submodule "external/mitsuba"]
+	path = external/mitsuba
+	url = git@github.com:Felixduelmer/mitsuba3.git
