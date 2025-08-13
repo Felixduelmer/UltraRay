@@ -28,8 +28,6 @@ UltraRay implements a complete ultrasound simulation pipeline that models the fu
 
 *Comparison results showing UltraRay's simulation capabilities on cylindrical and vertebrae phantom data*
 
-For detailed technical information about the ray tracing approach and system architecture, see the [system overview document](assets/ultra_ray_general_setup%20(2).pdf).
-
 ## Code Structure
 
 - **`src/`**: Main simulation entry point and scene configuration files for running ultrasound simulations
